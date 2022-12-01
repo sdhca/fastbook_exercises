@@ -130,3 +130,12 @@ dmypy.json
 
 # Neptune.ai
 .neptune/
+
+# Images
+*.jpg
+*.jpeg
+*.gif
+*.png
+
+# Pickle files
+*.pkl
